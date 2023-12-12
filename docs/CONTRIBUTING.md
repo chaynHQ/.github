@@ -10,11 +10,28 @@ While Chayn is hybrid between paid staff and volunteers now, we cherish our volu
 
 Next, let's get started... 🎉
 
+# Table of Contents
+- [New Contributor Guide:](#new-contributor-guide)
+  - [Prerequisites](#prerequisites)
+  - [Where Can I Get Help?](#where-can-i-get-help)
+  - [What kind of contributions does Chayn want?](#what-kind-of-contributions-does-chayn-want)
+- [The Contribution Process Guide:](#the-contribution-process-guide)
+  1. [Read the README and Code of Conduct](#1-read-the-readme-and-code-of-conduct)
+  2. [Claim an Issue](#2-claim-an-issue)
+  3. [Fork the Repo and Create a New Branch](#3-fork-the-repo-and-create-a-new-branch)
+  4. [Commit Changes Using Open-Source Standards](#4-commit-changes-using-open-source-standards)
+  5. [Sync Fork if Needed](#5-sync-your-fork-if-needed)
+  6. [Push Changes to GitHub](#6-push-changes-to-github)
+  7. [Make a Pull Request to Chayn](#7--make-a-pull-request-to-chayn)
+
 # New Contributor Guide
 
- If you are experienced in making open-source contributions, please feel free to skip ahead to the [Contribution Process section](#the-contribution-process). 
+ **If you are experienced in making open-source contributions, please feel free to skip ahead to the [Contribution Process Guide](#the-contribution-process-guide).** 
+
+## Prerequisites
+
  
- **If you are new to GitHub and git version control, here are some resources to help you get started:**
+ If you are new to GitHub and git version control, here are some resources to help you get started:
 
 - [Getting Started with First Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 - [Learn the GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow)
@@ -22,12 +39,12 @@ Next, let's get started... 🎉
 - [How to Collaborate with Pull Requests](https://docs.github.com/en/github/collaborating-with-pull-requests)
 - [Git Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf) *(we highly recommend saving this for future reference!)*
 
-**Here are prerequisites you should meet before contributing to Chayn's GitHub:**
+Here are prerequisites you should meet before contributing to Chayn's GitHub:
 - git version control configuration
 - a GitHub account
 - fundamental knowledge of the GitHub and git version control flow (fork, clone, push, commit, branches, etc.)
 
-**Note: It is not required that you have experience contributing to open-source projects on GitHub!** Chayn aims to be a safe space for contributors of all skill-levels to build their skills while making an impact in digital public goods. If this is your first contribution, we recommend saving the cheatsheet linked above for future reference, learning how to navigate the GitHub and git version control docs, and in general -- *learn as you go.* The Chayn team is here to help. You got this! 💪
+**It is not required that you have experience contributing to open-source projects on GitHub!** Chayn aims to be a safe space for contributors of all skill-levels to build their skills while making an impact in digital public goods. If this is your first contribution, we recommend saving the cheatsheet linked above for future reference, learning how to navigate the GitHub and git version control docs, and in general -- *learn as you go.* The Chayn team is here to help. You got this! 💪
 
 ## Where can I get help?
 Chayn maintainers and developers are here to help! We aim to give a safe space for contributors of all skill levels to build their skills while making an impact. 🤝
@@ -50,7 +67,7 @@ Chayn is open to all kinds of contributions, such as:
 
 Just no spamming (such as unwanted, minor documentation and HTML/CSS changes) please! 🚫
 
-# The Contribution Process:
+# The Contribution Process Guide:
 ### The Contribution Process Outline:
 1. [Read the README and Code of Conduct](#1-read-the-readme-and-code-of-conduct)
 2. [Claim an Issue](#2-claim-an-issue)
