@@ -20,7 +20,7 @@ Learn More:
 ---
 
 
-**Please give our repositories a star ⭐ and follow our GitHub profile to help us find more open-source contributors like you!** 🙂
+**Please give our repositories a star ⭐ and follow our GitHub to help us find more open-source contributors like you!** 🙂
 
 **Support Us:**
 🙏 [Sponsor on GitHub](https://github.com/sponsors/chaynHQ)
