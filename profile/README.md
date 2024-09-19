@@ -2,26 +2,30 @@
 
 ---
 
-### Chayn is an award-winning, global nonprofit, run by survivors and allies from around the world, creating resources to support the healing of survivors of gender-based violence.
+### Chayn is an award-winning, globally-run charity developing digital resources to support the healing of survivors across the world.
 
-We create open, online resources and services for survivors of abuse that are trauma-informed, intersectional, multi-lingual and feminist.
+Since 2013, Chayn has reached over 500,000 survivors worldwide with our trauma-informed, multi-lingual, survivor-centred, and intersectional projects. Proudly open-source, our work is built by paid staff, committed volunteers, and open-source contributors. 
+We prioritize inclusion, decolonizing, equity, and transparency when working together to leverage technology for social impact. Explore [our trauma-informed design approaches](https://blog.chayn.co/trauma-informed-design-understanding-trauma-and-healing-f289d281495c#bfd5-9b19aef3af2) and [Design Justice principles that we follow](https://designjustice.org/read-the-principles).
 
-🤝 Learn more about us: https://org.chayn.co/
+Learn More:
 
-🔎 Explore our projects: https://org.chayn.co/projects
+  🤝 About Us: https://www.chayn.co/about
 
-📖 Read our research and how Chayn has made an impact: https://org.chayn.co/research
+  🔎 Projects: https://www.chayn.co/resources
 
+  📖 Research: https://org.chayn.co/research
+
+  🌎 Impact: https://org.chayn.co/impact/2023-2024
+  
 ---
 
-Chayn is a hybrid organization with paid staff and committed volunteers. 
-We prioritize inclusion, decolonizing, equity, transparency, and community-driven design. 
-Our volunteers contribute to a feminist future free from violence and abuse. 
 
-[Contact us](https://www.notion.so/chayn/Get-involved-423c067536f3426a88005de68f0cab19) if you’d like to contribute! 📨
+**Please give our repositories a star ⭐ and follow our GitHub profile to help us find more open-source contributors like you!** 🙂
 
-Learn more about our [trauma-informed approach](https://blog.chayn.co/trauma-informed-design-understanding-trauma-and-healing-f289d281495c#bfd5-9b19aef3af2).
-We’re also signed up to the [Design Justice principles](https://designjustice.org/read-the-principles).
+**Support Us:**
+🙏 [Sponsor on GitHub](https://github.com/sponsors/chaynHQ)
+❤️ Explore our [volunteer programs](https://www.chayn.co/get-involved)
+📱 Follow on social media: - Linktree: [https://linktr.ee/chayn](https://linktr.ee/chayn) - Twitter: [@chaynhq](https://twitter.com/ChaynHQ) - Instagram: [@chaynhq](https://www.instagram.com/chaynhq/) - Youtube: [@chaynhq](https://www.youtube.com/@chaynhq) - Facebook: [@chayn](https://www.facebook.com/chayn) - LinkedIn: [@chayn](https://www.linkedin.com/company/chayn).
 
 <!--
 
