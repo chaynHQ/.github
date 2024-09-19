@@ -1,8 +1,10 @@
-✨ Chayn (pronounced ch-en) means “solace” in Urdu.
+*✨ Chayn (pronounced ch-en) means “solace” in Urdu.*
 
 ---
 
-### Chayn is an award-winning, globally-run charity developing digital resources to support the healing of survivors across the world.
+### Who We Are:
+
+Chayn is an award-winning, globally-run charity developing digital resources to support the healing of survivors across the world.
 
 Since 2013, Chayn has reached over 500,000 survivors worldwide with our trauma-informed, multi-lingual, survivor-centred, and intersectional projects. Proudly open-source, our work is built by paid staff, committed volunteers, and open-source contributors. 
 We prioritize inclusion, decolonizing, equity, and transparency when working together to leverage technology for social impact. Explore [our trauma-informed design approaches](https://blog.chayn.co/trauma-informed-design-understanding-trauma-and-healing-f289d281495c#bfd5-9b19aef3af2) and [Design Justice principles that we follow](https://designjustice.org/read-the-principles).
@@ -19,13 +21,15 @@ Learn More:
   
 ---
 
+### Support our Work:
 
 **Please give our repositories a star ⭐ and follow our GitHub to help us find more open-source contributors like you!** 🙂
 
-**Support Us:**
+**Get Involved:**
 🙏 [Sponsor on GitHub](https://github.com/sponsors/chaynHQ)
-❤️ Explore our [volunteer programs](https://www.chayn.co/get-involved)
-📱 Follow on social media: - Linktree: [https://linktr.ee/chayn](https://linktr.ee/chayn) - Twitter: [@chaynhq](https://twitter.com/ChaynHQ) - Instagram: [@chaynhq](https://www.instagram.com/chaynhq/) - Youtube: [@chaynhq](https://www.youtube.com/@chaynhq) - Facebook: [@chayn](https://www.facebook.com/chayn) - LinkedIn: [@chayn](https://www.linkedin.com/company/chayn).
+❤️ Sign up for [volunteer programs](https://www.chayn.co/get-involved)
+🖥️ Make open-source contributions
+📱 Follow on social media: - Linktree: [https://linktr.ee/chayn](https://linktr.ee/chayn) - Twitter: [@chaynhq](https://twitter.com/ChaynHQ) - Instagram: [@chaynhq](https://www.instagram.com/chaynhq/) - Youtube: [@chaynhq](https://www.youtube.com/@chaynhq) - Facebook: [@chayn](https://www.facebook.com/chayn) - LinkedIn: [@chayn](https://www.linkedin.com/company/chayn)
 
 <!--
 
