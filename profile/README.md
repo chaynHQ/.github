@@ -18,6 +18,8 @@ Learn More:
   📖 Research: https://org.chayn.co/research
 
   🌎 Impact: https://org.chayn.co/impact/2023-2024
+
+  💻 Our collab with GitHub: [How GitHub Introduced a New Chapter for Open-Source Tech at Chayn](https://blog.chayn.co/how-github-introduced-a-new-chapter-for-open-source-tech-at-chayn-5ff2ad1b6af3)
   
 ---
 
