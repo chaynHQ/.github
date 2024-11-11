@@ -6,7 +6,7 @@
 
 Chayn is an award-winning, globally-run charity developing digital resources to support the healing of survivors across the world.
 
-Since 2013, Chayn has reached over 500,000 survivors worldwide with our trauma-informed, multi-lingual, survivor-centred, and intersectional projects. Proudly open-source, our work is built by paid staff, committed volunteers, and open-source contributors. 
+Since 2013, Chayn has reached over 500,000 survivors worldwide with our FREE, trauma-informed, multi-lingual, survivor-centred, and intersectional projects. Proudly open-source, our work is built by paid staff, committed volunteers, and open-source contributors. 
 We prioritize inclusion, decolonizing, equity, and transparency when working together to leverage technology for social impact. Explore [our trauma-informed design approaches](https://blog.chayn.co/trauma-informed-design-understanding-trauma-and-healing-f289d281495c#bfd5-9b19aef3af2) and [Design Justice principles that we follow](https://designjustice.org/read-the-principles).
 
 Learn More:
