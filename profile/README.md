@@ -1,3 +1,31 @@
+## 🌟 We're Hiring: Open-Source Community Manager
+
+**Help us build a thriving open-source community around technology for survivors of gender-based violence.**
+
+Chayn is looking for an **Open-Source Community Manager** to lead our GitHub community, maintain our repositories, and support contributors worldwide. This is a unique opportunity to combine technical skills with social impact work.
+
+**What you'll do:**
+- Maintain and moderate our GitHub repos, review PRs, and triage issues
+- Create documentation and onboarding materials for new contributors
+- Foster an inclusive, welcoming community aligned with our trauma-informed values
+- Contribute code (TypeScript, React, Node.js) and support CI/CD pipelines
+
+**What we're looking for:**
+- Strong technical background in software development (TypeScript, React, Node.js)
+- Experience with Git, GitHub, and open-source workflows
+- Passion for community building and collaborative development
+- Excellent communication skills for diverse technical audiences
+
+**Details:**
+- 📍 Fully remote (anywhere in the world)
+- ⏱️ 1 day/week (7.5 hours, flexible scheduling)
+- 💰 £190-250/day depending on experience
+- 📅 6-month contract with strong possibility for extension
+
+**Apply by 31 October 2025:** [View full job description and apply here](https://chayn-cio.breezy.hr/p/40dab2731c98-open-source-community-manager)
+
+
+---
 *✨ Chayn (pronounced ch-en) means “solace” in Urdu.*
 
 ---
